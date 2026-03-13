@@ -20,5 +20,5 @@ Full-stack developer building cloud-native applications and AI tooling with Azur
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-abernathy-674a96217)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mabernathy87@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dev.maber.io)
 [![Site](https://img.shields.io/badge/maber.io-222222?style=flat)](https://maber.io)
